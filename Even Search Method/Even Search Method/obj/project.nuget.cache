@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SIopQ5aJjRbXlKBcA/7Yoia47XxvgyJqtiMmxwDlk/JXnbRxwitRHsbPkB19xPMZ7ja7embigOp9Mi37mHTsEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shernaz\\Desktop\\3-курс\\Методы оптимизации (Иосиф Григоревич)\\2-модуль\\Even Search Method\\Even Search Method\\Even Search Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shernaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\shernaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\shernaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\shernaz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

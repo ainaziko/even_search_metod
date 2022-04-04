@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7EC11896-0FAE-48BB-913B-3DA9BE7E2107}|Default">
+  <MonoDevelop.Ide.ItemProperties.Even_220Search_220Method PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Even Search Method/Form1.cs">
+    <Files>
+      <File FileName="Even Search Method/Parser/Calculator.cs" Line="7" Column="6" />
+      <File FileName="Even Search Method/Form1.cs" Line="13" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Even Search Method" expanded="True">
+            <Node name="Even Search Method" expanded="True">
+              <Node name="Parser" expanded="True" />
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
